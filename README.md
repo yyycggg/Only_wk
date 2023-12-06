@@ -2,7 +2,7 @@
 ycg's wk
 
 
-### 网址1
+### 网址
 <!-- [blog](https://yyycggg.github.io/blog/) -->
 
 [Home](https://yyycggg.github.io/Only_wk/home/)
