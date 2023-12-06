@@ -1,5 +1,5 @@
 # marry
-ycg's wedding
+ycg's marry
 
 
 ## Welcome to GitHub Pages
