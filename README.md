@@ -12,7 +12,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [网址](https://yyycggg.github.io/Only_wk/)
 
 ```markdown
-markdown
 小鹿天天喊困
 智商只有八岁
 ```
