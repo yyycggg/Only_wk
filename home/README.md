@@ -1,14 +1,14 @@
-# home
-ycg's home
+# Home
+ycg's Home
 
 
 ### 网址
 <!-- [blog](https://yyycggg.github.io/blog/) -->
 
-[home](https://yyycggg.github.io/Only_wk/home/)
+[Home](https://yyycggg.github.io/Only_wk/home/)
 
 ```markdown
-# home
+# Home
 小鹿天天喊困
 智商只有八岁
 ```
