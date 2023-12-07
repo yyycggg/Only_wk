@@ -58,7 +58,8 @@ li {
 }
 
 a {
-    text-decoration: none;
+    color: rgb(83, 161, 233);
+    text-decoration: underline;
 }
 
 a:hover {
@@ -119,11 +120,6 @@ iframe {
 body {
     background: url("../images/bg.jpg") top/100%;
     position: fixed
-}
-
-a {
-    color: rgb(83, 161, 233);
-    text-decoration: underline;
 }
 
 img.gb {
