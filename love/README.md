@@ -1,14 +1,14 @@
-# love
-ycg's love
+# Love
+ycg's Love
 
 
 ### 网址
 <!-- [blog](https://yyycggg.github.io/blog/) -->
 
-[love](https://yyycggg.github.io/Only_wk/love/)
+[Love](https://yyycggg.github.io/Only_wk/love/)
 
 ```markdown
-# love
+# Love
 小鹿天天喊困
 智商只有八岁
 ```
