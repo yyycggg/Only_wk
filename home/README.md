@@ -5,7 +5,7 @@ ycg's home
 ### 网址
 <!-- [blog](https://yyycggg.github.io/blog/) -->
 
-[love](https://yyycggg.github.io/Only_wk/home/)
+[home](https://yyycggg.github.io/Only_wk/home/)
 
 ```markdown
 # home
